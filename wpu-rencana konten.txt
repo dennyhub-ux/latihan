@@ -5,3 +5,5 @@
 - PHP
   > Laravel
 - Mobile & Web
+- Golang
+- Database
