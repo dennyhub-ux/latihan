@@ -1,6 +1,5 @@
-- JS
-- React- 
 - PHP
   > Laravel
 - Golang
 - Database
+- testing conflict
