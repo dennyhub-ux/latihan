@@ -1,8 +1,6 @@
 - JS
 - React- 
-- Kotlin
 - PHP
   > Laravel
-- Mobile & Web
 - Golang
 - Database
