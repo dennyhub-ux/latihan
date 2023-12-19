@@ -1,5 +1,7 @@
 - JS
-- React- 
+  > React-Js
+  > Node-Js
 - Kotlin
 - PHP
+  > Laravel
 - Mobile & Web
