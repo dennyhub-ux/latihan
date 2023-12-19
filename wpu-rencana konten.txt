@@ -1,3 +1,7 @@
+- JS
+  > React-Js
+  > Node-Js
+- Kotlin
 - PHP
   > Laravel
 - Golang
