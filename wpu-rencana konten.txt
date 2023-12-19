@@ -5,3 +5,5 @@
 - PHP
   > Laravel
 - Mobile & Web
+- materi 1
+- materi 2
