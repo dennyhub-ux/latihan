@@ -3,3 +3,4 @@ WPU Resolusi:
 - saya ingin kaya
 - saya ingin punya mobil
 - test
+- belajar git
